@@ -1,0 +1,45 @@
+---
+title: "Cookbook"
+author: "Rick Young"
+date: "Sunday, November 23, 2014"
+output: html_document
+---
+
+Reads activity_labels.txt and applies descriptive activity names to name the activities in the data set:
+walking
+
+walkingupstairs
+
+walkingdownstairs
+
+sitting
+
+standing
+
+laying
+
+--- 
+Variable names
+subject
+
+activity
+
+featDomain
+
+featInstrument
+
+featAcceleration
+
+featVariable
+
+featJerk
+
+featMagnitude
+
+featAxis
+
+featCount
+
+featAverage
+
+
